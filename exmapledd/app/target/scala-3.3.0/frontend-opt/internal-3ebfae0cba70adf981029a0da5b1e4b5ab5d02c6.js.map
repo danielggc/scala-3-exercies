@@ -1,8 +1,0 @@
-{
-"version": 3,
-"file": "internal-3ebfae0cba70adf981029a0da5b1e4b5ab5d02c6.js",
-"mappings": ";;AAsDO,mB;AAAA,SAAA,UAAA;ECwP2C,KAAAA,kCAAA,ODxP3C;EAAuBC,mEAAA,CAAA,2CAAA,OAAwBA,mEAAA,CAAA,WAAA,EAAxB,CAAvB;C;AAAA,SAAA,UAAA,gB;AAAA,UAAA,CAAA,SAAA,OAAAA,mEAAA,CAAA,yBAAA,E;AAAA,UAAA,CAAA,SAAA,CAAA,WAAA,GAAA,U;AAAA,mB;AAAA,SAAA,UAAA;;C;AAAA,SAAA,UAAA,gB;AAAA,UAAA,CAAA,SAAA,GAAA,UAAA,CAAA,S;AAAA,IAAA,UAAA,OAAAA,mEAAA,CAAA,SAAA,GAAA,SAAA;EAAA,OAAA;;EAAA,OAAA;EAAA,sBAAA;EAAA,CAAA;EAAA,aAAA;EAAA,kBAAA;EAAA,qBAAA;E;AAAA,SAAA,UAAA,gB;AAAA,UAAA,CAAA,SAAA,CAAA,UAAA,GAAA,U;AAAA,IAAA,U;AAAA,SAAA,UAAA;QAAA,UAAA;IAAA,UAAA,OAAA,UAAA;;SAAA,UAAA;C;AAAA,SAAA,UAAA,gB;",
-"sources": ["https://raw.githubusercontent.com/scala/scala/v2.13.11/src/library/scala/collection/Seq.scala", "https://raw.githubusercontent.com/scala/scala/v2.13.11/src/library/scala/collection/Factory.scala"],
-"names": ["delegate", "org.scalajs.linker.runtime.-Runtime-Long"],
-"lineCount": 36
-}
