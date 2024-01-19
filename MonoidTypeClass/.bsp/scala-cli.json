@@ -1,0 +1,16 @@
+{
+  "name": "scala-cli",
+  "argv": [
+    "/home/dgc7/.local/share/coursier/bin/.scala-cli.aux",
+    "bsp",
+    "--json-options",
+    "/home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.scala-build/ide-options-v2.json",
+    "/home/dgc7/proyectos/scala/exercies/MonoidTypeClass"
+  ],
+  "version": "1.0.5",
+  "bspVersion": "2.1.0-M6",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}

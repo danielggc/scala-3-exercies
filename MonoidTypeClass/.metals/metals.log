@@ -1,0 +1,206 @@
+2024.01.16 14:56:41 INFO  Started: Metals version 1.2.0 in folders '/home/dgc7/proyectos/scala/exercies/MonoidTypeClass' for client Code - OSS 1.82.2.[0m
+2024.01.16 14:56:43 INFO  Running List(/home/dgc7/.local/share/coursier/bin/scala-cli, setup-ide, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass)[0m
+2024.01.16 14:56:44 INFO  Attempting to connect to the build server...[0m
+2024.01.16 14:56:44 INFO  Running BSP server List(/home/dgc7/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.scala-build/ide-options-v2.json, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass)[0m
+2024.01.16 14:56:44 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.metals/bsp.trace.json or /home/dgc7/.cache/metals/bsp.trace.json[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.11-sc-2/bloop-frontend_2.12-1.5.11-sc-2.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.11-sc-2/bloop-frontend_2.12-1.5.11-sc-2.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.11-sc-2/bloop-backend_2.12-1.5.11-sc-2.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.6/logback-classic-1.4.6.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.11-sc-2/bloop-backend_2.12-1.5.11-sc-2.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.6/logback-classic-1.4.6.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.4.6/logback-parent-1.4.6.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-parent/1.4.6/logback-parent-1.4.6.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.11-sc-2/bloop-shared_2.12-1.5.11-sc-2.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.4/slf4j-api-2.0.4.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.6/logback-core-1.4.6.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.8.3/test-agent-1.8.3.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.11-sc-2/bloop-shared_2.12-1.5.11-sc-2.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.4/slf4j-api-2.0.4.pom[0m
+2024.01.16 14:56:44 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.6/logback-core-1.4.6.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/test-agent/1.8.3/test-agent-1.8.3.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/2.0.4/slf4j-parent-2.0.4.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/2.0.4/slf4j-parent-2.0.4.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna/4.5.2/jna-4.5.2.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/net/java/dev/jna/jna-platform/4.4.0/jna-platform-4.4.0.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/scala-sbt/launcher-interface/1.0.0/launcher-interface-1.0.0.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/2.0.6/slf4j-parent-2.0.6.pom[0m
+2024.01.16 14:56:45 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-parent/2.0.6/slf4j-parent-2.0.6.pom[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.6/logback-classic-1.4.6.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.6/logback-core-1.4.6.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.11-sc-2/bloop-backend_2.12-1.5.11-sc-2.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/libdaemon/libdaemon_2.12/0.0.11/libdaemon_2.12-0.0.11.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.11-sc-2/bloop-shared_2.12-1.5.11-sc-2.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/nailgun-server/1.0.7/nailgun-server-1.0.7.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/org/slf4j/slf4j-api/2.0.6/slf4j-api-2.0.6.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloading https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.11-sc-2/bloop-frontend_2.12-1.5.11-sc-2.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-classic/1.4.6/logback-classic-1.4.6.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-shared_2.12/1.5.11-sc-2/bloop-shared_2.12-1.5.11-sc-2.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/ch/qos/logback/logback-core/1.4.6/logback-core-1.4.6.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-backend_2.12/1.5.11-sc-2/bloop-backend_2.12-1.5.11-sc-2.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/github/alexarchambault/bleep/bloop-frontend_2.12/1.5.11-sc-2/bloop-frontend_2.12-1.5.11-sc-2.jar[0m
+2024.01.16 14:56:46 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/io/get-coursier/interface/1.0.13/interface-1.0.13.jar[0m
+2024.01.16 14:56:47 INFO  BSP server: Starting compilation server[0m
+2024.01.16 14:56:47 INFO  no build target found for /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/main.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.01.16 14:56:49 WARN  Could not find semantic tokens for: file:///home/dgc7/proyectos/scala/exercies/MonoidTypeClass/main.scala[0m
+2024.01.16 14:56:50 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.7.4/semanticdb-javac-0.7.4.pom[0m
+2024.01.16 14:56:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.7.4/semanticdb-javac-0.7.4.pom[0m
+2024.01.16 14:56:50 INFO  BSP server: Downloading https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.7.4/semanticdb-javac-0.7.4.jar[0m
+2024.01.16 14:56:50 INFO  BSP server: Downloaded https://repo1.maven.org/maven2/com/sourcegraph/semanticdb-javac/0.7.4/semanticdb-javac-0.7.4.jar[0m
+2024.01.16 14:56:51 INFO  time: Connected to build server in 7.05s[0m
+2024.01.16 14:56:51 INFO  Connected to Build server: scala-cli v1.0.5[0m
+2024.01.16 14:56:51 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 14:56:54 INFO  time: Imported build in 3.48s[0m
+2024.01.16 14:56:57 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.01.16 14:56:57 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.01.16 14:56:57 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.01.16 14:56:57 INFO  time: indexed workspace in 3.83s[0m
+2024.01.16 14:57:03 WARN  Could not find semantic tokens for: file:///home/dgc7/proyectos/scala/exercies/MonoidTypeClass/main.scala[0m
+2024.01.16 14:57:04 WARN  Could not find semantic tokens for: file:///home/dgc7/proyectos/scala/exercies/MonoidTypeClass/main.scala[0m
+2024.01.16 14:58:58 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 14:58:58 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.7s[0m
+Jan 16, 2024 3:04:12 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 341
+2024.01.16 15:08:17 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 15:08:18 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 1.4s[0m
+2024.01.16 15:21:07 INFO  Running BSP server List(/home/dgc7/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.scala-build/ide-options-v2.json, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass)[0m
+2024.01.16 15:21:07 ERROR Running process '/home/dgc7/.local/share/coursier/bin/.scala-cli.aux bsp --json-options /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.scala-build/ide-options-v2.json /home/dgc7/proyectos/scala/exercies/MonoidTypeClass' failed
+java.io.IOException: Cannot run program "/home/dgc7/.local/share/coursier/bin/.scala-cli.aux" (in directory "/home/dgc7/proyectos/scala/exercies/MonoidTypeClass"): error=0, Failed to exec spawn helper: pid: 17143, signal: 1
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1143)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:45)
+	at scala.meta.internal.bsp.BspServers.newConnection$1(BspServers.scala:96)
+	at scala.meta.internal.bsp.BspServers.$anonfun$newServer$8(BspServers.scala:142)
+	at scala.meta.internal.metals.BuildServerConnection$.setupServer$1(BuildServerConnection.scala:511)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$14(BuildServerConnection.scala:569)
+	at scala.meta.internal.metals.BuildServerConnection.reestablishConnection(BuildServerConnection.scala:66)
+	at scala.meta.internal.metals.BuildServerConnection.askUser(BuildServerConnection.scala:388)
+	at scala.meta.internal.metals.BuildServerConnection.scala$meta$internal$metals$BuildServerConnection$$reconnect(BuildServerConnection.scala:398)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$new$1(BuildServerConnection.scala:61)
+	at scala.meta.internal.metals.BuildServerConnection$LauncherConnection.$anonfun$setReconnect$1(BuildServerConnection.scala:663)
+	at scala.util.Success.foreach(Try.scala:260)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:481)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+Caused by: java.io.IOException: error=0, Failed to exec spawn helper: pid: 17143, signal: 1
+	at java.lang.ProcessImpl.forkAndExec(Native Method)
+	at java.lang.ProcessImpl.<init>(ProcessImpl.java:314)
+	at java.lang.ProcessImpl.start(ProcessImpl.java:244)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1110)
+	at java.lang.ProcessBuilder.start(ProcessBuilder.java:1073)
+	at scala.meta.internal.process.SystemProcess$.run(SystemProcess.scala:45)
+	at scala.meta.internal.bsp.BspServers.newConnection$1(BspServers.scala:96)
+	at scala.meta.internal.bsp.BspServers.$anonfun$newServer$8(BspServers.scala:142)
+	at scala.meta.internal.metals.BuildServerConnection$.setupServer$1(BuildServerConnection.scala:511)
+	at scala.meta.internal.metals.BuildServerConnection$.$anonfun$fromSockets$14(BuildServerConnection.scala:569)
+	at scala.meta.internal.metals.BuildServerConnection.reestablishConnection(BuildServerConnection.scala:66)
+	at scala.meta.internal.metals.BuildServerConnection.askUser(BuildServerConnection.scala:388)
+	at scala.meta.internal.metals.BuildServerConnection.scala$meta$internal$metals$BuildServerConnection$$reconnect(BuildServerConnection.scala:398)
+	at scala.meta.internal.metals.BuildServerConnection.$anonfun$new$1(BuildServerConnection.scala:61)
+	at scala.meta.internal.metals.BuildServerConnection$LauncherConnection.$anonfun$setReconnect$1(BuildServerConnection.scala:663)
+	at scala.util.Success.foreach(Try.scala:260)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:481)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+[0m
+2024.01.16 15:21:07 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.metals/bsp.trace.json or /home/dgc7/.cache/metals/bsp.trace.json[0m
+java.util.concurrent.RejectedExecutionException: Task Future(<not completed>) rejected from java.util.concurrent.ThreadPoolExecutor@7692b64c[Shutting down, pool size = 1, active threads = 1, queued tasks = 0, completed tasks = 9694]
+	at java.base/java.util.concurrent.ThreadPoolExecutor$AbortPolicy.rejectedExecution(ThreadPoolExecutor.java:2065)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.reject(ThreadPoolExecutor.java:833)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.execute(ThreadPoolExecutor.java:1365)
+	at scala.concurrent.impl.ExecutionContextImpl.execute(ExecutionContextImpl.scala:21)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:429)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.submitWithValue(Promise.scala:435)
+	at scala.concurrent.impl.Promise$DefaultPromise.submitWithValue(Promise.scala:338)
+	at scala.concurrent.impl.Promise$DefaultPromise.tryComplete0(Promise.scala:285)
+	at scala.concurrent.impl.Promise$Transformation.handleFailure(Promise.scala:444)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:506)
+	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.base/java.lang.Thread.run(Thread.java:840)
+2024.01.16 16:54:46 INFO  Started: Metals version 1.2.0 in folders '/home/dgc7/proyectos/scala/exercies/MonoidTypeClass' for client Code - OSS 1.82.2.[0m
+2024.01.16 16:54:47 INFO  Attempting to connect to the build server...[0m
+2024.01.16 16:54:47 WARN  No build session currently active to reload.[0m
+2024.01.16 16:54:47 INFO  Running BSP server List(/home/dgc7/.local/share/coursier/bin/.scala-cli.aux, bsp, --json-options, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.scala-build/ide-options-v2.json, /home/dgc7/proyectos/scala/exercies/MonoidTypeClass)[0m
+2024.01.16 16:54:47 INFO  tracing is disabled for protocol BSP, to enable tracing of incoming and outgoing JSON messages create an empty file at /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.metals/bsp.trace.json or /home/dgc7/.cache/metals/bsp.trace.json[0m
+2024.01.16 16:54:49 INFO  BSP server: Starting compilation server[0m
+2024.01.16 16:54:56 INFO  no build target found for /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/main.scala. Using presentation compiler with project's scala-library version: 3.3.1[0m
+2024.01.16 16:54:56 INFO  time: Connected to build server in 9.2s[0m
+2024.01.16 16:54:56 INFO  Connected to Build server: scala-cli v1.0.5[0m
+2024.01.16 16:54:56 INFO  time: Imported build in 0.63s[0m
+2024.01.16 16:55:01 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.01.16 16:55:01 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.01.16 16:55:01 WARN  Could not find java sources in /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip, /usr/lib/jvm/src.zip, /usr/lib/jvm/lib/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/src.zip, /usr/lib/jvm/java-17-openjdk-amd64/lib/src.zip. Java symbols will not be available.[0m
+2024.01.16 16:55:01 INFO  time: indexed workspace in 3.63s[0m
+2024.01.16 17:03:17 ERROR Failed to tokenize input for semantic tokens for /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/main.scala
+scala.meta.tokenizers.TokenizeException: <input>:8: error: unclosed string literal
+        ") def  <+>( other:T ):T = t.combine( other )
+        ^
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:23)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter.syntaxError$(Reporter.scala:25)
+	at scala.meta.internal.tokenizers.Reporter$$anon$1.syntaxError(Reporter.scala:33)
+	at scala.meta.internal.tokenizers.LegacyScanner.getStringLit(LegacyScanner.scala:553)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchDoubleQuote$1(LegacyScanner.scala:372)
+	at scala.meta.internal.tokenizers.LegacyScanner.fetchToken(LegacyScanner.scala:376)
+	at scala.meta.internal.tokenizers.LegacyScanner.nextToken(LegacyScanner.scala:211)
+	at scala.meta.internal.tokenizers.LegacyScanner.foreach(LegacyScanner.scala:1011)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.uncachedTokenize(ScalametaTokenizer.scala:24)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.$anonfun$tokenize$1(ScalametaTokenizer.scala:17)
+	at scala.collection.concurrent.TrieMap.getOrElseUpdate(TrieMap.scala:962)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer.tokenize(ScalametaTokenizer.scala:17)
+	at scala.meta.internal.tokenizers.ScalametaTokenizer$$anon$2.apply(ScalametaTokenizer.scala:332)
+	at scala.meta.tokenizers.Api$XtensionTokenizeDialectInput.tokenize(Api.scala:25)
+	at scala.meta.tokenizers.Api$XtensionTokenizeInputLike.tokenize(Api.scala:14)
+	at scala.meta.internal.metals.SemanticTokensProvider$.getTokens(SemanticTokensProvider.scala:28)
+	at scala.meta.internal.metals.SemanticTokensProvider$.provide(SemanticTokensProvider.scala:89)
+	at scala.meta.internal.metals.Compilers.$anonfun$semanticTokens$3(Compilers.scala:541)
+	at scala.concurrent.impl.Promise$Transformation.run(Promise.scala:467)
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)
+	at java.lang.Thread.run(Thread.java:840)
+[0m
+2024.01.16 17:06:55 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 17:06:58 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 3.3s[0m
+Jan 16, 2024 5:23:55 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 842
+Jan 16, 2024 5:24:26 PM scala.meta.internal.pc.CompilerAccess handleError
+SEVERE: A severe compiler error occurred, full details of the error can be found in the error report /home/dgc7/proyectos/scala/exercies/MonoidTypeClass/.metals/.reports/metals-full/2024-01-16/r_compiler-error_(MonoidTypeClass_bd2c96d2de)_17-24-26-766.md
+2024.01.16 17:25:13 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 17:25:13 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.78s[0m
+2024.01.16 22:31:51 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 22:31:51 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.47s[0m
+2024.01.16 22:32:36 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 22:32:36 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.39s[0m
+2024.01.16 22:32:57 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 22:32:57 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.13s[0m
+2024.01.16 22:33:04 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 22:33:04 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.22s[0m
+2024.01.16 22:34:48 INFO  compiling monoidtypeclass_bd2c96d2de (1 scala source)[0m
+2024.01.16 22:34:48 INFO  time: compiled MonoidTypeClass_bd2c96d2de in 0.27s[0m
+2024.01.16 22:36:30 INFO  Shutting down server[0m
+2024.01.16 22:36:30 INFO  shutting down Metals[0m
+2024.01.16 22:36:30 INFO  Shut down connection with build server.[0m
+2024.01.16 22:36:30 INFO  Exiting server[0m

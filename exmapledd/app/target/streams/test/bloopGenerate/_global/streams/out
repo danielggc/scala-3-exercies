@@ -1,0 +1,4 @@
+[debug] [frontend-test] Classpath dependencies List()
+[debug] [frontend-test] Dependencies from configurations List(frontend)
+[debug] Bloop wrote the configuration of project 'frontend-test' to '/home/dgc7/proyectos/scala/exercies/exmapledd/.bloop/frontend-test.json'
+[success] Generated .bloop/frontend-test.json

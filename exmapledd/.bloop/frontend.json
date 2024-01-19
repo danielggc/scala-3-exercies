@@ -1,0 +1,1000 @@
+{
+    "version": "1.4.0",
+    "project": {
+        "name": "frontend",
+        "directory": "/home/dgc7/proyectos/scala/exercies/exmapledd/app",
+        "workspaceDir": "/home/dgc7/proyectos/scala/exercies/exmapledd",
+        "sources": [
+            "/home/dgc7/proyectos/scala/exercies/exmapledd/app/src/main/scala",
+            "/home/dgc7/proyectos/scala/exercies/exmapledd/app/src/main/scala-3",
+            "/home/dgc7/proyectos/scala/exercies/exmapledd/app/src/main/java",
+            "/home/dgc7/proyectos/scala/exercies/exmapledd/app/target/scala-3.3.0/src_managed/main"
+        ],
+        "dependencies": [
+            
+        ],
+        "classpath": [
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_sjs1_3/3.3.0/scala3-library_sjs1_3-3.3.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.13/1.13.2/scalajs-library_2.13-1.13.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs1_3/2.6.0/scalajs-dom_sjs1_3-2.6.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/laminar_sjs1_3/16.0.0/laminar_sjs1_3-16.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/airstream_sjs1_3/16.0.0/airstream_sjs1_3-16.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/be/doeraene/web-components-ui5_sjs1_3/1.10.0/web-components-ui5_sjs1_3-1.10.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/dev/optics/monocle-core_3/3.1.0/monocle-core_3-3.1.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/dev/optics/monocle-macro_3/3.1.0/monocle-macro_3-3.1.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/japgolly/scalacss/core_sjs1_3/1.0.0/core_sjs1_3-1.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/waypoint_sjs1_3/7.0.0/waypoint_sjs1_3-7.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/be/doeraene/url-dsl_sjs1_3/0.6.0/url-dsl_sjs1_3-0.6.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_sjs1_3/3.1.2/upickle_sjs1_3-3.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_sjs1_3/2.9.0/cats-core_sjs1_3-2.9.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_sjs1_3/2.9.0/cats-kernel_sjs1_3-2.9.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/fetch_sjs1_3/0.16.2/fetch_sjs1_3-0.16.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scala-js-macrotask-executor_sjs1_3/1.1.1/scala-js-macrotask-executor_sjs1_3-1.1.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/jszip/3.8.0/jszip-3.8.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-javalib/1.13.2/scalajs-javalib-1.13.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/ew_sjs1_3/0.1.2/ew_sjs1_3-0.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/app/tulz/tuplez-full-light_sjs1_3/0.4.0/tuplez-full-light_sjs1_3-0.4.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.0.0/scala3-library_3-3.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_3/2.6.1/cats-core_3-2.6.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-free_3/2.6.1/cats-free_3-2.6.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/japgolly/univeq/univeq_sjs1_3/2.0.0/univeq_sjs1_3-2.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_sjs1_3/3.1.2/ujson_sjs1_3-3.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_sjs1_3/3.1.2/upack_sjs1_3-3.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_sjs1_3/3.1.2/upickle-implicits_sjs1_3-3.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/core_sjs1_3/0.16.2/core_sjs1_3-0.16.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/util_sjs1_3/0.16.2/util_sjs1_3-0.16.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/lie/3.3.0/lie-3.3.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/pako/1.0.11/pako-1.0.11.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/readable-stream/2.3.8/readable-stream-2.3.8.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/set-immediate-shim/1.0.1/set-immediate-shim-1.0.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_3/2.6.1/cats-kernel_3-2.6.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/simulacrum-scalafix-annotations_3/0.5.4/simulacrum-scalafix-annotations_3-0.5.4.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_sjs1_3/3.1.2/upickle-core_sjs1_3-3.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/immediate/3.0.6/immediate-3.0.6.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/inherits/2.0.4/inherits-2.0.4.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/core-util-is/1.0.3/core-util-is-1.0.3.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/safe-buffer/5.1.2/safe-buffer-5.1.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/util-deprecate/1.0.2/util-deprecate-1.0.2.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/isarray/1.0.0/isarray-1.0.0.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/string_decoder/1.1.1/string_decoder-1.1.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/process-nextick-args/2.0.1/process-nextick-args-2.0.1.jar",
+            "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_sjs1_3/1.0.0/geny_sjs1_3-1.0.0.jar"
+        ],
+        "out": "/home/dgc7/proyectos/scala/exercies/exmapledd/.bloop/frontend",
+        "classesDir": "/home/dgc7/proyectos/scala/exercies/exmapledd/.bloop/frontend/scala-3/classes",
+        "resources": [
+            "/home/dgc7/proyectos/scala/exercies/exmapledd/app/src/main/resources",
+            "/home/dgc7/proyectos/scala/exercies/exmapledd/app/target/scala-3.3.0/resource_managed/main"
+        ],
+        "scala": {
+            "organization": "org.scala-lang",
+            "name": "scala-compiler",
+            "version": "3.3.0",
+            "options": [
+                "-scalajs"
+            ],
+            "jars": [
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.3.0/scala3-library_3-3.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.10/scala-library-2.13.10.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-compiler_3/3.3.0/scala3-compiler_3-3.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-interfaces/3.3.0/scala3-interfaces-3.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/tasty-core_3/3.3.0/tasty-core_3-3.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/modules/scala-asm/9.4.0-scala-1/scala-asm-9.4.0-scala-1.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/compiler-interface/1.3.5/compiler-interface-1.3.5.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-reader/3.19.0/jline-reader-3.19.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal/3.19.0/jline-terminal-3.19.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jline/jline-terminal-jna/3.19.0/jline-terminal-jna-3.19.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/google/protobuf/protobuf-java/3.7.0/protobuf-java-3.7.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-sbt/util-interface/1.3.0/util-interface-1.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/net/java/dev/jna/jna/5.3.1/jna-5.3.1.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scaladoc_3/3.3.0/scaladoc_3-3.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-tasty-inspector_3/3.3.0/scala3-tasty-inspector_3-3.3.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark/0.42.12/flexmark-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-html-parser/0.42.12/flexmark-html-parser-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-anchorlink/0.42.12/flexmark-ext-anchorlink-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-autolink/0.42.12/flexmark-ext-autolink-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-emoji/0.42.12/flexmark-ext-emoji-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-strikethrough/0.42.12/flexmark-ext-gfm-strikethrough-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-tables/0.42.12/flexmark-ext-gfm-tables-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-gfm-tasklist/0.42.12/flexmark-ext-gfm-tasklist-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-wikilink/0.42.12/flexmark-ext-wikilink-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-yaml-front-matter/0.42.12/flexmark-ext-yaml-front-matter-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/nl/big-o/liqp/0.8.2/liqp-0.8.2.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/jsoup/jsoup/1.14.3/jsoup-1.14.3.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/dataformat/jackson-dataformat-yaml/2.13.3/jackson-dataformat-yaml-2.13.3.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-util/0.42.12/flexmark-util-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-formatter/0.42.12/flexmark-formatter-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/nibor/autolink/autolink/0.6.0/autolink-0.6.0.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-jira-converter/0.42.12/flexmark-jira-converter-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/antlr/antlr4-runtime/4.7.2/antlr4-runtime-4.7.2.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-annotations/2.13.3/jackson-annotations-2.13.3.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-core/2.13.3/jackson-core-2.13.3.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/core/jackson-databind/2.13.3/jackson-databind-2.13.3.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/fasterxml/jackson/datatype/jackson-datatype-jsr310/2.12.1/jackson-datatype-jsr310-2.12.1.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/ua/co/k/strftime4j/1.0.5/strftime4j-1.0.5.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/yaml/snakeyaml/1.30/snakeyaml-1.30.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-tables/0.42.12/flexmark-ext-tables-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-ins/0.42.12/flexmark-ext-ins-0.42.12.jar",
+                "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/vladsch/flexmark/flexmark-ext-superscript/0.42.12/flexmark-ext-superscript-0.42.12.jar"
+            ],
+            "setup": {
+                "order": "mixed",
+                "addLibraryToBootClasspath": true,
+                "addCompilerToClasspath": false,
+                "addExtraJarsToClasspath": false,
+                "manageBootClasspath": true,
+                "filterLibraryFromClasspath": true
+            }
+        },
+        "java": {
+            "options": [
+                
+            ]
+        },
+        "test": {
+            "frameworks": [
+                {
+                    "names": [
+                        "org.scalacheck.ScalaCheckFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs2.runner.Specs2Framework",
+                        "org.specs2.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.specs.runner.SpecsFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "org.scalatest.tools.Framework",
+                        "org.scalatest.tools.ScalaTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "com.novocode.junit.JUnitFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "munit.Framework"
+                    ]
+                },
+                {
+                    "names": [
+                        "zio.test.sbt.ZTestFramework"
+                    ]
+                },
+                {
+                    "names": [
+                        "weaver.framework.CatsEffect"
+                    ]
+                },
+                {
+                    "names": [
+                        "hedgehog.sbt.Framework"
+                    ]
+                }
+            ],
+            "options": {
+                "excludes": [
+                    
+                ],
+                "arguments": [
+                    
+                ]
+            }
+        },
+        "platform": {
+            "name": "js",
+            "config": {
+                "version": "1.13.2",
+                "mode": "debug",
+                "kind": "none",
+                "emitSourceMaps": false,
+                "jsdom": false,
+                "toolchain": [
+                    
+                ]
+            },
+            "mainClass": [
+                
+            ]
+        },
+        "resolution": {
+            "modules": [
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-library_sjs1_3",
+                    "version": "3.3.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala3-library_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_sjs1_3/3.3.0/scala3-library_sjs1_3-3.3.0.jar"
+                        },
+                        {
+                            "name": "scala3-library_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_sjs1_3/3.3.0/scala3-library_sjs1_3-3.3.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scalajs-library_2.13",
+                    "version": "1.13.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalajs-library_2.13",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.13/1.13.2/scalajs-library_2.13-1.13.2.jar"
+                        },
+                        {
+                            "name": "scalajs-library_2.13",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-library_2.13/1.13.2/scalajs-library_2.13-1.13.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scalajs-dom_sjs1_3",
+                    "version": "2.6.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalajs-dom_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs1_3/2.6.0/scalajs-dom_sjs1_3-2.6.0.jar"
+                        },
+                        {
+                            "name": "scalajs-dom_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-dom_sjs1_3/2.6.0/scalajs-dom_sjs1_3-2.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.raquo",
+                    "name": "laminar_sjs1_3",
+                    "version": "16.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "laminar_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/laminar_sjs1_3/16.0.0/laminar_sjs1_3-16.0.0.jar"
+                        },
+                        {
+                            "name": "laminar_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/laminar_sjs1_3/16.0.0/laminar_sjs1_3-16.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.raquo",
+                    "name": "airstream_sjs1_3",
+                    "version": "16.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "airstream_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/airstream_sjs1_3/16.0.0/airstream_sjs1_3-16.0.0.jar"
+                        },
+                        {
+                            "name": "airstream_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/airstream_sjs1_3/16.0.0/airstream_sjs1_3-16.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "be.doeraene",
+                    "name": "web-components-ui5_sjs1_3",
+                    "version": "1.10.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "web-components-ui5_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/be/doeraene/web-components-ui5_sjs1_3/1.10.0/web-components-ui5_sjs1_3-1.10.0.jar"
+                        },
+                        {
+                            "name": "web-components-ui5_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/be/doeraene/web-components-ui5_sjs1_3/1.10.0/web-components-ui5_sjs1_3-1.10.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "dev.optics",
+                    "name": "monocle-core_3",
+                    "version": "3.1.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "monocle-core_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/dev/optics/monocle-core_3/3.1.0/monocle-core_3-3.1.0.jar"
+                        },
+                        {
+                            "name": "monocle-core_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/dev/optics/monocle-core_3/3.1.0/monocle-core_3-3.1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "dev.optics",
+                    "name": "monocle-macro_3",
+                    "version": "3.1.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "monocle-macro_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/dev/optics/monocle-macro_3/3.1.0/monocle-macro_3-3.1.0.jar"
+                        },
+                        {
+                            "name": "monocle-macro_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/dev/optics/monocle-macro_3/3.1.0/monocle-macro_3-3.1.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.github.japgolly.scalacss",
+                    "name": "core_sjs1_3",
+                    "version": "1.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "core_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/japgolly/scalacss/core_sjs1_3/1.0.0/core_sjs1_3-1.0.0.jar"
+                        },
+                        {
+                            "name": "core_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/japgolly/scalacss/core_sjs1_3/1.0.0/core_sjs1_3-1.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.raquo",
+                    "name": "waypoint_sjs1_3",
+                    "version": "7.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "waypoint_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/waypoint_sjs1_3/7.0.0/waypoint_sjs1_3-7.0.0.jar"
+                        },
+                        {
+                            "name": "waypoint_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/waypoint_sjs1_3/7.0.0/waypoint_sjs1_3-7.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "be.doeraene",
+                    "name": "url-dsl_sjs1_3",
+                    "version": "0.6.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "url-dsl_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/be/doeraene/url-dsl_sjs1_3/0.6.0/url-dsl_sjs1_3-0.6.0.jar"
+                        },
+                        {
+                            "name": "url-dsl_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/be/doeraene/url-dsl_sjs1_3/0.6.0/url-dsl_sjs1_3-0.6.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle_sjs1_3",
+                    "version": "3.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_sjs1_3/3.1.2/upickle_sjs1_3-3.1.2.jar"
+                        },
+                        {
+                            "name": "upickle_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle_sjs1_3/3.1.2/upickle_sjs1_3-3.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.typelevel",
+                    "name": "cats-core_sjs1_3",
+                    "version": "2.9.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "cats-core_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_sjs1_3/2.9.0/cats-core_sjs1_3-2.9.0.jar"
+                        },
+                        {
+                            "name": "cats-core_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_sjs1_3/2.9.0/cats-core_sjs1_3-2.9.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.typelevel",
+                    "name": "cats-kernel_sjs1_3",
+                    "version": "2.9.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "cats-kernel_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_sjs1_3/2.9.0/cats-kernel_sjs1_3-2.9.0.jar"
+                        },
+                        {
+                            "name": "cats-kernel_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_sjs1_3/2.9.0/cats-kernel_sjs1_3-2.9.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.laminext",
+                    "name": "fetch_sjs1_3",
+                    "version": "0.16.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "fetch_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/fetch_sjs1_3/0.16.2/fetch_sjs1_3-0.16.2.jar"
+                        },
+                        {
+                            "name": "fetch_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/fetch_sjs1_3/0.16.2/fetch_sjs1_3-0.16.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scala-js-macrotask-executor_sjs1_3",
+                    "version": "1.1.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-js-macrotask-executor_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scala-js-macrotask-executor_sjs1_3/1.1.1/scala-js-macrotask-executor_sjs1_3-1.1.1.jar"
+                        },
+                        {
+                            "name": "scala-js-macrotask-executor_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scala-js-macrotask-executor_sjs1_3/1.1.1/scala-js-macrotask-executor_sjs1_3-1.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "jszip",
+                    "version": "3.8.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "jszip",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/jszip/3.8.0/jszip-3.8.0.jar"
+                        },
+                        {
+                            "name": "jszip",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/jszip/3.8.0/jszip-3.8.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala-library",
+                    "version": "2.13.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala-library",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11.jar"
+                        },
+                        {
+                            "name": "scala-library",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala-library/2.13.11/scala-library-2.13.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-js",
+                    "name": "scalajs-javalib",
+                    "version": "1.13.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scalajs-javalib",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-javalib/1.13.2/scalajs-javalib-1.13.2.jar"
+                        },
+                        {
+                            "name": "scalajs-javalib",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-js/scalajs-javalib/1.13.2/scalajs-javalib-1.13.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.raquo",
+                    "name": "ew_sjs1_3",
+                    "version": "0.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "ew_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/ew_sjs1_3/0.1.2/ew_sjs1_3-0.1.2.jar"
+                        },
+                        {
+                            "name": "ew_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/raquo/ew_sjs1_3/0.1.2/ew_sjs1_3-0.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "app.tulz",
+                    "name": "tuplez-full-light_sjs1_3",
+                    "version": "0.4.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "tuplez-full-light_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/app/tulz/tuplez-full-light_sjs1_3/0.4.0/tuplez-full-light_sjs1_3-0.4.0.jar"
+                        },
+                        {
+                            "name": "tuplez-full-light_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/app/tulz/tuplez-full-light_sjs1_3/0.4.0/tuplez-full-light_sjs1_3-0.4.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.scala-lang",
+                    "name": "scala3-library_3",
+                    "version": "3.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "scala3-library_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.0.0/scala3-library_3-3.0.0.jar"
+                        },
+                        {
+                            "name": "scala3-library_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/scala-lang/scala3-library_3/3.0.0/scala3-library_3-3.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.typelevel",
+                    "name": "cats-core_3",
+                    "version": "2.6.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "cats-core_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_3/2.6.1/cats-core_3-2.6.1.jar"
+                        },
+                        {
+                            "name": "cats-core_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-core_3/2.6.1/cats-core_3-2.6.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.typelevel",
+                    "name": "cats-free_3",
+                    "version": "2.6.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "cats-free_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-free_3/2.6.1/cats-free_3-2.6.1.jar"
+                        },
+                        {
+                            "name": "cats-free_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-free_3/2.6.1/cats-free_3-2.6.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.github.japgolly.univeq",
+                    "name": "univeq_sjs1_3",
+                    "version": "2.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "univeq_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/japgolly/univeq/univeq_sjs1_3/2.0.0/univeq_sjs1_3-2.0.0.jar"
+                        },
+                        {
+                            "name": "univeq_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/github/japgolly/univeq/univeq_sjs1_3/2.0.0/univeq_sjs1_3-2.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "ujson_sjs1_3",
+                    "version": "3.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "ujson_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_sjs1_3/3.1.2/ujson_sjs1_3-3.1.2.jar"
+                        },
+                        {
+                            "name": "ujson_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/ujson_sjs1_3/3.1.2/ujson_sjs1_3-3.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upack_sjs1_3",
+                    "version": "3.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upack_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_sjs1_3/3.1.2/upack_sjs1_3-3.1.2.jar"
+                        },
+                        {
+                            "name": "upack_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upack_sjs1_3/3.1.2/upack_sjs1_3-3.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle-implicits_sjs1_3",
+                    "version": "3.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle-implicits_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_sjs1_3/3.1.2/upickle-implicits_sjs1_3-3.1.2.jar"
+                        },
+                        {
+                            "name": "upickle-implicits_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-implicits_sjs1_3/3.1.2/upickle-implicits_sjs1_3-3.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.laminext",
+                    "name": "core_sjs1_3",
+                    "version": "0.16.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "core_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/core_sjs1_3/0.16.2/core_sjs1_3-0.16.2.jar"
+                        },
+                        {
+                            "name": "core_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/core_sjs1_3/0.16.2/core_sjs1_3-0.16.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "io.laminext",
+                    "name": "util_sjs1_3",
+                    "version": "0.16.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "util_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/util_sjs1_3/0.16.2/util_sjs1_3-0.16.2.jar"
+                        },
+                        {
+                            "name": "util_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/io/laminext/util_sjs1_3/0.16.2/util_sjs1_3-0.16.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "lie",
+                    "version": "3.3.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "lie",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/lie/3.3.0/lie-3.3.0.jar"
+                        },
+                        {
+                            "name": "lie",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/lie/3.3.0/lie-3.3.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "pako",
+                    "version": "1.0.11",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "pako",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/pako/1.0.11/pako-1.0.11.jar"
+                        },
+                        {
+                            "name": "pako",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/pako/1.0.11/pako-1.0.11-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "readable-stream",
+                    "version": "2.3.8",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "readable-stream",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/readable-stream/2.3.8/readable-stream-2.3.8.jar"
+                        },
+                        {
+                            "name": "readable-stream",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/readable-stream/2.3.8/readable-stream-2.3.8-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "set-immediate-shim",
+                    "version": "1.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "set-immediate-shim",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/set-immediate-shim/1.0.1/set-immediate-shim-1.0.1.jar"
+                        },
+                        {
+                            "name": "set-immediate-shim",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/set-immediate-shim/1.0.1/set-immediate-shim-1.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.typelevel",
+                    "name": "cats-kernel_3",
+                    "version": "2.6.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "cats-kernel_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_3/2.6.1/cats-kernel_3-2.6.1.jar"
+                        },
+                        {
+                            "name": "cats-kernel_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/cats-kernel_3/2.6.1/cats-kernel_3-2.6.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.typelevel",
+                    "name": "simulacrum-scalafix-annotations_3",
+                    "version": "0.5.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "simulacrum-scalafix-annotations_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/simulacrum-scalafix-annotations_3/0.5.4/simulacrum-scalafix-annotations_3-0.5.4.jar"
+                        },
+                        {
+                            "name": "simulacrum-scalafix-annotations_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/typelevel/simulacrum-scalafix-annotations_3/0.5.4/simulacrum-scalafix-annotations_3-0.5.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "upickle-core_sjs1_3",
+                    "version": "3.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "upickle-core_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_sjs1_3/3.1.2/upickle-core_sjs1_3-3.1.2.jar"
+                        },
+                        {
+                            "name": "upickle-core_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/upickle-core_sjs1_3/3.1.2/upickle-core_sjs1_3-3.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "immediate",
+                    "version": "3.0.6",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "immediate",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/immediate/3.0.6/immediate-3.0.6.jar"
+                        },
+                        {
+                            "name": "immediate",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/immediate/3.0.6/immediate-3.0.6-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "inherits",
+                    "version": "2.0.4",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "inherits",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/inherits/2.0.4/inherits-2.0.4.jar"
+                        },
+                        {
+                            "name": "inherits",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/inherits/2.0.4/inherits-2.0.4-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "core-util-is",
+                    "version": "1.0.3",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "core-util-is",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/core-util-is/1.0.3/core-util-is-1.0.3.jar"
+                        },
+                        {
+                            "name": "core-util-is",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/core-util-is/1.0.3/core-util-is-1.0.3-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "safe-buffer",
+                    "version": "5.1.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "safe-buffer",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/safe-buffer/5.1.2/safe-buffer-5.1.2.jar"
+                        },
+                        {
+                            "name": "safe-buffer",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/safe-buffer/5.1.2/safe-buffer-5.1.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "util-deprecate",
+                    "version": "1.0.2",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "util-deprecate",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/util-deprecate/1.0.2/util-deprecate-1.0.2.jar"
+                        },
+                        {
+                            "name": "util-deprecate",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/util-deprecate/1.0.2/util-deprecate-1.0.2-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "isarray",
+                    "version": "1.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "isarray",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/isarray/1.0.0/isarray-1.0.0.jar"
+                        },
+                        {
+                            "name": "isarray",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/isarray/1.0.0/isarray-1.0.0-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "string_decoder",
+                    "version": "1.1.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "string_decoder",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/string_decoder/1.1.1/string_decoder-1.1.1.jar"
+                        },
+                        {
+                            "name": "string_decoder",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/string_decoder/1.1.1/string_decoder-1.1.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "org.webjars.npm",
+                    "name": "process-nextick-args",
+                    "version": "2.0.1",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "process-nextick-args",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/process-nextick-args/2.0.1/process-nextick-args-2.0.1.jar"
+                        },
+                        {
+                            "name": "process-nextick-args",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/org/webjars/npm/process-nextick-args/2.0.1/process-nextick-args-2.0.1-sources.jar"
+                        }
+                    ]
+                },
+                {
+                    "organization": "com.lihaoyi",
+                    "name": "geny_sjs1_3",
+                    "version": "1.0.0",
+                    "configurations": "default",
+                    "artifacts": [
+                        {
+                            "name": "geny_sjs1_3",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_sjs1_3/1.0.0/geny_sjs1_3-1.0.0.jar"
+                        },
+                        {
+                            "name": "geny_sjs1_3",
+                            "classifier": "sources",
+                            "path": "/home/dgc7/.cache/coursier/v1/https/repo1.maven.org/maven2/com/lihaoyi/geny_sjs1_3/1.0.0/geny_sjs1_3-1.0.0-sources.jar"
+                        }
+                    ]
+                }
+            ]
+        },
+        "tags": [
+            "library"
+        ]
+    }
+}

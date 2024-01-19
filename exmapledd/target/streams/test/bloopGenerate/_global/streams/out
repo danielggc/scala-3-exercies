@@ -1,0 +1,4 @@
+[debug] [exmapledd-test] Classpath dependencies List()
+[debug] [exmapledd-test] Dependencies from configurations List(exmapledd)
+[debug] Bloop wrote the configuration of project 'exmapledd-test' to '/home/dgc7/proyectos/scala/exercies/exmapledd/.bloop/exmapledd-test.json'
+[success] Generated .bloop/exmapledd-test.json
