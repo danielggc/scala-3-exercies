@@ -1,4 +1,4 @@
-[0m[[0m[0mdebug[0m] [0m[0m[exmapledd-build-build] Classpath dependencies List()[0m
-[0m[[0m[0mdebug[0m] [0m[0m[exmapledd-build-build] Dependencies from configurations List()[0m
-[0m[[0m[0mdebug[0m] [0m[0mBloop wrote the configuration of project 'exmapledd-build-build' to '/home/dgc7/proyectos/scala/exercies/exmapledd/project/project/.bloop/exmapledd-build-build.json'[0m
-[0m[[0m[32msuccess[0m] [0m[0mGenerated .bloop/exmapledd-build-build.json[0m
+[debug] [exmapledd-build-build] Classpath dependencies List()
+[debug] [exmapledd-build-build] Dependencies from configurations List()
+[debug] Bloop wrote the configuration of project 'exmapledd-build-build' to '/home/dgc7/proyectos/scala/exercies/exmapledd/project/project/.bloop/exmapledd-build-build.json'
+[success] Generated .bloop/exmapledd-build-build.json

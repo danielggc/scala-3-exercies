@@ -1,0 +1,24 @@
+[0m[[0m[0minfo[0m] [0m[0mFast optimizing /home/dgc7/proyectos/scala/exercies/exmapledd/app/target/scala-3.3.0/frontend-fastopt[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Compute reachability: 28676 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: Assemble LinkedClasses: 5461 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mLinker: 56915 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Batch mode: false[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Incremental part: 13113 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizing 4 methods.[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: Optimizer part: 7346 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mOptimizer: 23710 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Compute reachability: 72393 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: Assemble LinkedClasses: 6880 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mRefiner: 80182 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Calculate Dependency Info: 543 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Analyze Modules: 3235 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: Assemble Modules: 1737 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mModule Splitter: 5852 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Generate Classes: 26646 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Write trees: 13832 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Class tree cache stats: reused: 461 -- invalidated: 4[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: Method tree cache stats: reused: 2061 -- invalidated: 4[0m
+[0m[[0m[0mdebug[0m] [0m[0mEmitter: 54603 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: Write result: 32554 us[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total top-level trees: 6681; re-computed: 37[0m
+[0m[[0m[0mdebug[0m] [0m[0mBasicBackend: total modules: 5; re-written: 1[0m

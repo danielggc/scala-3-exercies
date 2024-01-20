@@ -35,8 +35,7 @@ lazy val frontend = project.in(file("app"))
     libraryDependencies += "io.laminext" %%% "fetch" % "0.16.2",
     libraryDependencies += "org.scala-js" %%% "scala-js-macrotask-executor" % "1.1.1",
     libraryDependencies += "org.webjars.npm" % "jszip" % "3.8.0",
-      
-      //  libraryDependencies += "com.github.jwt-scala" %% "jwt-circe" % "9.4.4"
+
 
 
   )

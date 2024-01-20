@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E040] Syntax Error: /home/dgc7/proyectos/scala/exercies/exmapledd/app/src/main/scala/descompressZip/Main.scala:90:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m90 |[0m      [33mval[0m [36mfuture[0m: scala.concurrent.Future[js.Any] = promise.asInstanceOf[scala.scalajs.js.Thenable[js.Any]].toFuture[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m      an identifier expected, but 'val' found[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/dgc7/proyectos/scala/exercies/exmapledd/app/src/main/scala/descompressZip/Main.scala:91:6 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m91 |[0m      future.foreach { [36mdata[0m =>[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m      ^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m      Not found: future[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m
