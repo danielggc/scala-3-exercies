@@ -1,0 +1,13 @@
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E006] Not Found Error: /home/dgc7/proyectos/scala/exercies/exmapledd/src/main/scala/descompressZip/Main.scala:92:42 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m92 |[0m           println( e.getData( BlobReader(GetMineType)) )[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                                          ^^^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                                          Not found: GetMineType[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m-- [E050] Type Error: /home/dgc7/proyectos/scala/exercies/exmapledd/src/main/scala/descompressZip/Main.scala:92:22 [0m[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m92 |[0m           println( e.getData( BlobReader(GetMineType)) )[0m
+[0m[[0m[31merror[0m] [0m[0m[31m[31m   |[0m                    ^^^^^^^^^[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m                [33mvariable[0m [35mgetData[0m in [33mtrait[0m [35mEntry[0m does not take parameters[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m[0m
+[0m[[0m[31merror[0m] [0m[0m[31m   |[0m longer explanation available when compiling with `-explain`[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

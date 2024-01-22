@@ -1,9 +1,11 @@
 import org.scalajs.linker.interface.ModuleSplitStyle
 
-lazy val frontend = project.in(file("app"))
+lazy val frontend = project.in(file("."))
   .enablePlugins(ScalaJSPlugin)
+  .enablePlugins(ScalablyTypedConverterExternalNpmPlugin)
   .settings(
     scalaVersion := "3.3.0",
+    scalacOptions ++= Seq("-encoding", "utf-8", "-deprecation", "-feature"),
 
     // Tell Scala.js that this is an application with a main method
     scalaJSUseMainModuleInitializer := true,
@@ -37,5 +39,6 @@ lazy val frontend = project.in(file("app"))
     libraryDependencies += "org.webjars.npm" % "jszip" % "3.8.0",
 
 
+    externalNpm := baseDirectory.value,
 
   )

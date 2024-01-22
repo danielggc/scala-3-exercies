@@ -10,9 +10,12 @@
   },
   "devDependencies": {
     "@scala-js/vite-plugin-scalajs": "^1.0.0",
+    "@zip.js/zip.js": "^2.6.40",
+    "typescript": "^4.9.5",
     "vite": "^4.1.0"
   },
   "dependencies": {
+    "@zip.js/zip.js": "^2.6.40",
     "@ui5/webcomponents": "1.10.0",
     "@ui5/webcomponents-fiori": "1.10.0",
     "@ui5/webcomponents-icons": "1.10.0"

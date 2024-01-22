@@ -1,0 +1,27 @@
+[0m[[0m[31merror[0m] [0m[0mjava.nio.file.NoSuchFileException: /home/dgc7/proyectos/scala/exercies/exmapledd/app/package.json[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.fs.UnixException.translateToIOException(UnixException.java:92)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:106)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.fs.UnixException.rethrowAsIOException(UnixException.java:111)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/sun.nio.fs.UnixFileSystemProvider.newByteChannel(UnixFileSystemProvider.java:218)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.nio.file.Files.newByteChannel(Files.java:380)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.nio.file.Files.newByteChannel(Files.java:432)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.nio.file.Files.readAllBytes(Files.java:3288)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.scalablytyped.converter.internal.Json$.force(Json.scala:102)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.scalablytyped.converter.internal.Json$.force(Json.scala:99)[0m
+[0m[[0m[31merror[0m] [0m[0m	at org.scalablytyped.converter.plugin.ScalablyTypedConverterExternalNpmPlugin$.$anonfun$stImportTask$1(ScalablyTypedConverterExternalNpmPlugin.scala:34)[0m
+[0m[[0m[31merror[0m] [0m[0m	at scala.Function1.$anonfun$compose$1(Function1.scala:49)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.$tilde$greater.$anonfun$$u2219$1(TypeFunctions.scala:63)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.std.Transform$$anon$4.work(Transform.scala:69)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$2(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.internal.util.ErrorHandling$.wideConvert(ErrorHandling.scala:24)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.work(Execute.scala:292)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.Execute.$anonfun$submit$1(Execute.scala:283)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.ConcurrentRestrictions$$anon$4.$anonfun$submitValid$1(ConcurrentRestrictions.scala:265)[0m
+[0m[[0m[31merror[0m] [0m[0m	at sbt.CompletionService$$anon$2.call(CompletionService.scala:65)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:539)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.FutureTask.run(FutureTask.java:264)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1136)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:635)[0m
+[0m[[0m[31merror[0m] [0m[0m	at java.base/java.lang.Thread.run(Thread.java:840)[0m
+[0m[[0m[31merror[0m] [0m[0m(frontend / [31mstImport[0m) java.nio.file.NoSuchFileException: /home/dgc7/proyectos/scala/exercies/exmapledd/app/package.json[0m
