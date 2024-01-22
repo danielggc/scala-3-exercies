@@ -2083,7 +2083,7 @@ $c_Lexample_Unzipper$.prototype.unzip__Lorg_scalajs_dom_File__V = (function(file
         while ((i < len)) {
           var $$x1 = i;
           var arg1 = value[i];
-          var x$2 = arg1.getData;
+          var x$2 = $j_org$002escalajs$002elinker$002eruntime$002e$002dRuntime$002dLong.$as_T(arg1.filename);
           var this$12 = $m_s_Console$();
           var this$13 = $j_org$002escalajs$002elinker$002eruntime$002e$002dRuntime$002dLong.$n(this$12.out__Ljava_io_PrintStream());
           this$13.java$lang$JSConsoleBasedPrintStream$$printString__T__V((x$2 + "\n"));

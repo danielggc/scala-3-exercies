@@ -47,7 +47,7 @@
 [0m[[0m[0mdebug[0m] [0m[0m    "@ui5/webcomponents-icons" : "1.10.0",[0m
 [0m[[0m[0mdebug[0m] [0m[0m    "@zip.js/zip.js" : "^2.6.40"[0m
 [0m[[0m[0mdebug[0m] [0m[0m  }[0m
-[0m[[0m[0mdebug[0m] [0m[0m}[39m [32m[project => frontend, ms => 1][39m[0m
-[0m[[0m[0mdebug[0m] [0m[0m[32mScalablyTypedConverterExternalNpmPlugin.scala:46[39m [32minput.packageJsonHash[39m [92mb635f769fd0dfce3aaf84cddfc3b9eb8[39m [32m[project => frontend, ms => 4][39m[0m
-[0m[[0m[0mdebug[0m] [0m[0m[32mScalablyTypedConverterExternalNpmPlugin.scala:47[39m [32mrunCacheKey[39m [92m0bf43546485713cb5f2c5c68cc59bd34[39m [32m[project => frontend, ms => 4][39m[0m
-[0m[[0m[0mdebug[0m] [0m[0m[32mRunCache.scala:224[39m  [92mUsing cached result :[39m [32m[project => frontend, localRunFile.toString => /home/dgc7/.cache/scalablytyped/runs/0bf43546485713cb5f2c5c68cc59bd34.json, ms => 11][39m[0m
+[0m[[0m[0mdebug[0m] [0m[0m}[39m [32m[project => frontend, ms => 3][39m[0m
+[0m[[0m[0mdebug[0m] [0m[0m[32mScalablyTypedConverterExternalNpmPlugin.scala:46[39m [32minput.packageJsonHash[39m [92mb635f769fd0dfce3aaf84cddfc3b9eb8[39m [32m[project => frontend, ms => 6][39m[0m
+[0m[[0m[0mdebug[0m] [0m[0m[32mScalablyTypedConverterExternalNpmPlugin.scala:47[39m [32mrunCacheKey[39m [92m0bf43546485713cb5f2c5c68cc59bd34[39m [32m[project => frontend, ms => 7][39m[0m
+[0m[[0m[0mdebug[0m] [0m[0m[32mRunCache.scala:224[39m  [92mUsing cached result :[39m [32m[project => frontend, localRunFile.toString => /home/dgc7/.cache/scalablytyped/runs/0bf43546485713cb5f2c5c68cc59bd34.json, ms => 20][39m[0m
