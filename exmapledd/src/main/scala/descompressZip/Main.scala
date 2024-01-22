@@ -89,7 +89,7 @@ object Unzipper {
        case Failure(exception) => println(s"error exeption => $exception ")
        case Success(value) =>{
          val dd = value.map( e =>
-           println( e.filename  )
+           println( s"name of field is : [ ${e.filename} ] size: [ ${ e.uncompressedSize } ] data : [${ e.directory } ]  " )
          )
 
        }
