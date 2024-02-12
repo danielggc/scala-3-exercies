@@ -1,0 +1,24 @@
+[info] Fast optimizing /home/dgc7/proyectos/scala/exercies/laminar-descompress-zip/target/scala-3.3.0/frontend-fastopt
+[debug] Linker: Compute reachability: 750034 us
+[debug] Linker: Assemble LinkedClasses: 57422 us
+[debug] Linker: 1087225 us
+[debug] Optimizer: Batch mode: true
+[debug] Optimizer: Incremental part: 226670 us
+[debug] Optimizer: Optimizing 4594 methods.
+[debug] Optimizer: Optimizer part: 1384086 us
+[debug] Optimizer: 1627823 us
+[debug] Refiner: Compute reachability: 141849 us
+[debug] Refiner: Assemble LinkedClasses: 22790 us
+[debug] Refiner: 220872 us
+[debug] Module Splitter: Calculate Dependency Info: 4135 us
+[debug] Module Splitter: Analyze Modules: 46101 us
+[debug] Module Splitter: Assemble Modules: 20104 us
+[debug] Module Splitter: 72581 us
+[debug] Emitter: Generate Classes: 1452156 us
+[debug] Emitter: Write trees: 77690 us
+[debug] Emitter: Class tree cache stats: reused: 0 -- invalidated: 471
+[debug] Emitter: Method tree cache stats: reused: 0 -- invalidated: 2054
+[debug] Emitter: 1600971 us
+[debug] BasicBackend: Write result: 429904 us
+[debug] BasicBackend: total top-level trees: 6693; re-computed: 6693
+[debug] BasicBackend: total modules: 5; re-written: 5

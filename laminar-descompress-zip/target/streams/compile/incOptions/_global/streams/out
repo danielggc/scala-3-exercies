@@ -1,0 +1,47 @@
+[debug] Created transactional ClassFileManager with tempDir = /home/dgc7/proyectos/scala/exercies/laminar-descompress-zip/target/scala-3.3.0/classes.bak
+[debug] About to delete class files:
+[debug] 	Unzipper.class
+[debug] 	Main$.class
+[debug] 	Main$package$.class
+[debug] 	Main.class
+[debug] 	Main$package.class
+[debug] 	Unzipper$.class
+[debug] 	descompress.class
+[debug] 	Unzipper.tasty
+[debug] 	Main$.tasty
+[debug] 	Main$package$.tasty
+[debug] 	Main.tasty
+[debug] 	Main$package.tasty
+[debug] 	Unzipper$.tasty
+[debug] 	descompress.tasty
+[debug] We backup class files:
+[debug] 	Unzipper.class
+[debug] 	Main$.class
+[debug] 	Main$package$.class
+[debug] 	Main.class
+[debug] 	Main$package.class
+[debug] 	Unzipper$.class
+[debug] 	descompress.class
+[debug] 	Unzipper.tasty
+[debug] 	Main$.tasty
+[debug] 	Main$package$.tasty
+[debug] 	Main.tasty
+[debug] 	Main$package.tasty
+[debug] 	Unzipper$.tasty
+[debug] 	descompress.tasty
+[debug] Registering generated classes:
+[debug] 	Unzipper.class
+[debug] 	Main$.class
+[debug] 	Main$package$.class
+[debug] 	Main.class
+[debug] 	Main$package.class
+[debug] 	Unzipper$.class
+[debug] 	descompress.class
+[debug] 	Unzipper.tasty
+[debug] 	Main$.tasty
+[debug] 	Main$package$.tasty
+[debug] 	Main.tasty
+[debug] 	Main$package.tasty
+[debug] 	Unzipper$.tasty
+[debug] 	descompress.tasty
+[debug] Removing the temporary directory used for backing up class files: /home/dgc7/proyectos/scala/exercies/laminar-descompress-zip/target/scala-3.3.0/classes.bak
